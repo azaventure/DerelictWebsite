@@ -20,6 +20,7 @@ h1 {
 
 h2 {
     margin: 2%, 1%;
+    padding: 1rem;
     background-color: rgb(18, 26, 117);
 
 }
@@ -77,4 +78,20 @@ h2 {
     border-radius: 5px;
     color:white;
     text-decoration: none;
+}
+
+#start_section {
+    display: inline-block;
+    vertical-align: top;
+    width: 60%;
+    margin: 1% 1%;
+    background-color:rgb(43, 43, 44);
+}
+
+#trending_topics {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 1% 1%;
+    background-color:rgb(43, 43, 44) ;
 }
