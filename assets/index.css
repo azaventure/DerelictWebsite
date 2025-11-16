@@ -1,24 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+Math&display=swap');
+
 body {
     margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+body p {
+    margin: 1rem;
 }
 
 h1 {
+    display:inline-block;
+    vertical-align: middle;
+    text-align: center;
     margin: 0;
 }
 
 #nav-bar {
     position: relative;
+    vertical-align: middle;
     margin-top: 0px;
-    width: 100%;
-    height: auto;
-    background-color: #207ec1;
     padding: 1rem;
+    background-color: #207ec1;
 }
 
-#nav-bar a {
-    background-color: rgb(18, 26, 117);
-    width: auto;
+#nav-bar-buttons {
+    float: right;
+    width: fit-content;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#nav-bar-buttons a {
     display: inline-block;
+    text-align: center;
+    width: auto;
+    background-color: rgb(18, 26, 117);
     padding: 0.5rem;
     border-radius: 5px;
     color:white;
