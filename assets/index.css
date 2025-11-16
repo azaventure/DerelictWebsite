@@ -7,14 +7,9 @@ body {
     color: white;
 }
 
-body p {
-    margin: 1rem;
-}
-
-h1 {
+h1, h2 {
     display:inline-block;
     vertical-align: middle;
-    text-align: center;
     margin: 0;
 }
 
@@ -94,4 +89,14 @@ h2 {
     width: 30%;
     margin: 1% 1%;
     background-color:rgb(43, 43, 44) ;
+} 
+
+#information-box {
+    background-color: rgb(43, 43, 44);
+    margin-top: 1rem;
+    padding: 1rem;
+    width: 50vw;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
