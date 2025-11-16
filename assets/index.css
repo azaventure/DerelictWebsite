@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+#nav-bar {
+    position: relative;
+    margin-top: 0px;
+    width: 100%;
+    height: auto;
+    background-color: #207ec1;
+    padding: 1rem;
+}
+
+#nav-bar a {
+    background-color: rgb(18, 26, 117);
+    width: auto;
+    display: inline-block;
+    padding: 0.5rem;
+    border-radius: 5px;
+    color:white;
+    text-decoration: none;
+}
