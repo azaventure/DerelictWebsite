@@ -43,3 +43,22 @@ h1 {
     color:white;
     text-decoration: none;
 }
+#topic_list {
+    background-color:rgb(43, 43, 44) ;
+}
+
+#topic_list h2 {
+    background-color: rgb(18, 26, 117);
+
+}
+
+#topic_list a {
+    background-color: #5c73a9;;
+    width: auto;
+    display: block;
+    padding: 1rem;
+    margin: 1% 1%;
+    border-radius: 5px;
+    color:white;
+    text-decoration: none;
+}
