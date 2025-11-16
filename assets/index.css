@@ -62,11 +62,13 @@ h2 {
 
 #list_section {
     margin: 3% 1% 5% 1%;
-    background-color:rgb(43, 43, 44) ;
+    background-color: black;
+    outline-style: solid;
+    outline-color: white;
 }
 
 #list_section p {
-    background-color: #5c73a9;;
+    background-color: #5c73a9;
     width: auto;
     display: block;
     padding: 1rem;
@@ -77,19 +79,23 @@ h2 {
 }
 
 #start_section {
+    background-color: black;
+    outline-style: solid;
+    outline-color: white;
     display: inline-block;
     vertical-align: top;
     width: 60%;
     margin: 1% 1%;
-    background-color:rgb(43, 43, 44);
 }
 
 #trending_topics {
+    background-color: black;
+    outline-style: solid;
+    outline-color: white;
     display: inline-block;
     vertical-align: top;
     width: 30%;
     margin: 1% 1%;
-    background-color:rgb(43, 43, 44) ;
 } 
 
 #information-box {
