@@ -2,8 +2,9 @@
 
 body {
     margin: 0;
-    font-family: 'Arial', sans-serif;
-    background-color: black;
+    font-family: 'Georgia', sans-serif;
+    background-image: url("images/background.jpg");
+    background-size: cover; 
     color: white;
 }
 
@@ -92,11 +93,12 @@ h2 {
 } 
 
 #information-box {
-    background-color: rgb(43, 43, 44);
+    background-color: black;
+    outline-style: solid;
+    outline-color: white;
     margin-top: 1rem;
     padding: 1rem;
     width: 50vw;
-    border-radius: 5px;
     margin-left: auto;
     margin-right: auto;
 }
