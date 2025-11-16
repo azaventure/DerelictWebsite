@@ -24,3 +24,22 @@ h1 {
     color:white;
     text-decoration: none;
 }
+#topic_list {
+    background-color: gray;
+}
+
+#topic_list h2 {
+    background-color: rgb(18, 26, 117);
+
+}
+
+#topic_list a {
+    background-color: lightgray;
+    width: auto;
+    display: block;
+    padding: 1rem;
+    margin: 1% 1%;
+    border-radius: 5px;
+    color:white;
+    text-decoration: none;
+}
