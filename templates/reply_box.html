@@ -1,0 +1,10 @@
+{% for reply in replies %}
+<div class="reply-box">
+    <h4> Reply by {{ reply.author }} on {{ reply.time }} </h4>
+    <p> {{ reply.content }} </p>
+    <a href="">Reply...</a>
+    {% with replies=reply.replies %}
+        {% include 'reply_box.html' %}
+    {% endwith %}
+</div>
+{% endfor %}
