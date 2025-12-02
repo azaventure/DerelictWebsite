@@ -1,7 +1,7 @@
 {% for reply in replies %}
 <div class="reply-box">
     <h4> Reply by {{ reply.author }} on {{ reply.time }} </h4>
-    <p> {{ reply.content }} </p>
+    <p> {{ reply.content | safe }} </p>
     <a href="">Reply...</a>
     {% with replies=reply.replies %}
         {% include 'reply_box.html' %}

@@ -4,7 +4,7 @@ import json
 
 app = Flask(__name__)
 
-def load_posts(type, json):
+def load_posts(json):
     posts = []
     post_count = 0
     for post in json:
@@ -17,13 +17,13 @@ def load_posts(type, json):
                 post['messagetype'], 
                 post['time'],
                 post['content'], 
-                load_posts("reply", post['replies'])
+                load_posts(post['replies'])
             )
         )
         post_count += 1
     return posts
 
-post_list = load_posts("post", json.load(open('posts.json')))
+post_list = load_posts(json.load(open('posts.json')))
 
 @app.route('/')
 def index():
@@ -48,6 +48,10 @@ def thread(post_id):
 @app.route('/users')
 def users():
     return render_template('users.html')
+
+@app.route('/origin')
+def origin():
+    return render_template('origin.html')
 
 
 if __name__ == '__main__':

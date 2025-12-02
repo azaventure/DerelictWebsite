@@ -42,6 +42,50 @@
         ]
     },
     {
+        "title": "bars",
+        "author": "svelsvelkin1",
+        "messagetype": "post",
+        "time": "2005-07-06 at 10:21:29 UTC",
+        "content": "Anyone figured out the bars on the screen yet? Surely its different fuel gauges or something similar but we should really nail down what those mean soon.",
+        "replies": [
+            {
+                "title": "",
+                "author": "Xx_Fell_God_xX",
+                "messagetype": "reply",
+                "time": "2005-07-07 at 00:01:02 UTC",
+                "content": "fuel isnt a thing. Its just oxygen and water",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-07 at 00:20:21 UTC",
+                        "content": "great yeah dont give any explanation or anything thanks",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "Xx_Fell_God_xX",
+                                "messagetype": "reply",
+                                "time": "2005-07-07 at 00:21:29 UTC",
+                                "content": "it was pretty obvious when i could literally see air leaking out of my ship and the meter plummeted. When the bottom bar is low, the coffee machine stops working, and the ship seems to get hotter, so thats obviously water",
+                                "replies": [
+                                    {
+                                        "title": "",
+                                        "author": "Protodal",
+                                        "messagetype": "reply",
+                                        "time": "2005-07-07 at 00:25:59 UTC",
+                                        "content": "great. Wasnt so hard now was it?",
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Radio",
         "author": "svelsvelkin1",
         "messagetype": "post",
@@ -55,6 +99,170 @@
                 "time": "2005-7-07 at 19:55:10 UTC",
                 "content": "dude literally nobody cares",
                 "replies": []
+            }
+        ]
+    },
+    {
+        "title": "How do I fill bars?",
+        "author": "Issuator",
+        "messagetype": "post",
+        "time": "2005-7-09 at 04:41:23 UTC",
+        "content": "I think the game ends immediately if you run these bars to zero. What are these? Fuel? If so how do i get more",
+        "replies": [
+            {
+                "title": "",
+                "author": "svelsvelkin1",
+                "messagetype": "reply",
+                "time": "2005-7-09 at 04:53:59 UTC",
+                "content": "I think fell god figured out the bars yesterday. I think proto had a fuel theory though check his thing on fuel",
+                "replies": []
+            },
+            {
+                "title": "",
+                "author": "Daddylus",
+                "messagetype": "reply",
+                "time": "2005-7-09 at 04:49:59 UTC",
+                "content": "its not fuel its oxygen (in one of my playthroughs i got a crack in my hull and the bar started depleting really fast). Certain meteors have oxygen in them that you can pull into your ship",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Issuator",
+                        "messagetype": "reply",
+                        "time": "2005-7-09 at 05:01:09 UTC",
+                        "content": "you cant pull in meteors they just destroy you",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "Daddylus",
+                                "messagetype": "reply",
+                                "time": "2005-7-09 at 05:03:51 UTC",
+                                "content": "your main console button also functions as a tractor beam. If you flip the switch on the left, the color of your button will change from orange to green, and you can shoot meteors as you normally would to “pull them in.",
+                                "replies": [
+                                    {
+                                        "title": "",
+                                        "author": "svelsvelkin1",
+                                        "messagetype": "reply",
+                                        "time": "2005-7-09 at 05:30:31 UTC",
+                                        "content": "finally, maybe we can get more than five minutes through the game now LOL",
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Spiral Theory",
+        "author": "Protodal",
+        "messagetype": "post",
+        "time": "2005-07-08 at 01:19:11 UTC",
+        "content": "I was messing around last night and had a theory about the infamous spiral indicator: what if its a fuel gauge? I’ve noticed the ship moves considerably slower when the spiral is almost empty, almost like its conserving fuel.",
+        "replies": [
+            {
+                "title": "",
+                "author": "Daddylus",
+                "messagetype": "reply",
+                "time": "2005-07-08 at 1:58:23 UTC",
+                "content": "great find! We’ve suspected for a while that some indicator could represent fuel, but this is my new favorite theory. Now to find how to refuel…",
+                "replies": []
+            },
+            {
+                "title": "",
+                "author": "Xx_Fell_God_xX",
+                "messagetype": "reply",
+                "time": "2005-07-08 at 2:35:19 UTC",
+                "content": "Ive been waiting for someone to come up with a theory about the spiral for a while now, but I didn’t expect it to be this idiotic. </p><br><p>If fuel was recorded anywhere, it would be on the larger screen where the other levels are tracked (water + oxygen), not on its own arbitrary console. Seeing as the only other indicators on that screen are fluctuating/sinusoidal, neither of them can be fuel, since fuel would only go down in one direction</p><br><p>To give fuel its own, spiral-shaped indicator would be completely unintuitive. The spiral probably indicates something like hull integrity, seeing as a shell typically serves to protect a nautilus’ body.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-08 at 3:00:05 UTC",
+                        "content": "youre getting on my nerves, man. Even if you’re right, you could’ve said it a little nicer. Maybe turn on the Radio and calm down.",
+                        "replies": []
+                    },
+                    {
+                        "title": "",
+                        "author": "Daddylus",
+                        "messagetype": "reply",
+                        "time": "2005-07-08 at 3:10:41 UTC",
+                        "content": "Your behavior is uncalled for. If you can’t be polite, you should leave this forum.",
+                        "replies": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Side Terminal",
+        "author": "Issuator",
+        "messagetype": "post",
+        "time": "2005-07-11 at 10:11:56 UTC",
+        "content": "Some thoughts on the console to the right - the buttons could represent different torpedo spread patterns? I noticed that if you press the top green button, your galaga button can destroy multiple asteroids at once, while pressing the bottom button switches you back",
+        "replies": [
+            {
+                "title": "",
+                "author": "Xx_Fell_God_xX",
+                "messagetype": "reply",
+                "time": "2005-07-11 at 11:09:11 UTC",
+                "content": "This is correct, but you can’t always rely on it. I’ve found that, in certain situations, only one torpedo pattern is available. It’s most likely dependent on the amount of solar power readily nearby your ship.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-11 at 11:15:30 UTC",
+                        "content": "Solar power? What gives you that impression, if I may ask?",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "Xx_Fell_God_xX",
+                                "messagetype": "reply",
+                                "time": "2005-07-11 at 11:17:11 UTC",
+                                "content": "I’m getting tired of explaining things to you…</p><br><p>You can only switch to a wide torpedo spread if the lines on the graph are oscillating at higher levels. This made me wonder if the lines represent some kind of power, and if they do, then it must be an environment-based power rather than a stored-power, or the decline would be linear instead of wavy. The only kind of power that would fluctuate like this based on your position would be solar power.",
+                                "replies": [
+                                    {
+                                        "title": "",
+                                        "author": "Issuator",
+                                        "messagetype": "reply",
+                                        "time": "2005-07-11 at 11:18:14 UTC",
+                                        "content": "Wow, I think you might be right! Additionally, I think the screen above the buttons represents the amount of torpedoes you have left. When you fire at a wide spread, the bar shrinks faster. I wonder if there is a kind of asteroid you can collect that can be fashioned into more artillery…",
+                                        "replies": [
+                                            {
+                                                "title": "",
+                                                "author": "Xx_Fell_God_xX",
+                                                "messagetype": "reply",
+                                                "time": "2005-07-11 at 11:19:41 UTC",
+                                                "content": "I could have told you that…",
+                                                "replies": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "",
+                                        "author": "Protodal",
+                                        "messagetype": "reply",
+                                        "time": "2005-07-11 at 11:19:51 UTC",
+                                        "content": "As annoying as this response is, I think you’re right. I just tested it, and you can’t do a wide-spread if the wavy lines dip too low. Still, your elitism is showing.",
+                                        "replies": [
+                                            {
+                                                "title": "",
+                                                "author": "Xx_Fell_God_xX",
+                                                "messagetype": "reply",
+                                                "time": "2005-07-11 at 11:20:01 UTC",
+                                                "content": "If you wanna cuss me out for being right, you can do it in my DMs.",
+                                                "replies": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }
