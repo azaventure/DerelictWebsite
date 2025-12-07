@@ -2,7 +2,7 @@
 <div class="reply-box">
     <h4> Reply by {{ reply.author }} on {{ reply.time }} </h4>
     <p> {{ reply.content | safe }} </p>
-    <a href="">Reply...</a>
+    <a href="{{url_for('login')}}">Reply...</a>
     {% with replies=reply.replies %}
         {% include 'reply_box.html' %}
     {% endwith %}

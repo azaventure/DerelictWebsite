@@ -2,11 +2,11 @@
 
 {% block content %}
     <div id="information-box">
-        <h2 id = "page_title" > GAMEPLAY </h2>
+        <h2 id = "page_title" > SPECULATION </h2>
         <a href="{{url_for('login')}}">New post...</a>
         {% for post in posts %}
             <div class="thread-info-box">
-                <a href="{{url_for('thread', post_id=post.id)}}"> <h3>{{ post.title }}</h3> </a>
+                <a href="{{url_for('spec_thread', post_id=post.id)}}"> <h3>{{ post.title }}</h3> </a>
                 <p> Posted by {{ post.author }} on {{ post.time }} </p>
             </div>
         {% endfor %}

@@ -24,6 +24,7 @@ def load_posts(json):
     return posts
 
 post_list = load_posts(json.load(open('posts.json')))
+speculation_post_list = load_posts(json.load(open('speculation_posts.json')))
 
 @app.route('/')
 def index():
@@ -33,9 +34,9 @@ def index():
 def about():
     return render_template('about.html')
 
-@app.route('/faq')
-def faq():
-    return render_template('faq.html')
+@app.route('/speculation')
+def speculation():
+    return render_template('speculation.html', posts=speculation_post_list)
 
 @app.route('/threads')
 def threads():
@@ -45,6 +46,10 @@ def threads():
 def thread(post_id):
     return render_template('thread.html', post=post_list[post_id])
 
+@app.route('/spec_thread/<int:post_id>')
+def spec_thread(post_id):
+    return render_template('thread.html', post=speculation_post_list[post_id])
+
 @app.route('/users')
 def users():
     return render_template('users.html')
@@ -52,6 +57,14 @@ def users():
 @app.route('/origin')
 def origin():
     return render_template('origin.html')
+
+@app.route('/login')
+def login():
+    return render_template('login.html')
+
+@app.route('/error')
+def error():
+    return render_template('error.html')
 
 
 if __name__ == '__main__':

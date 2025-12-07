@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div id="information-box">
+        <h2>Login</h2>
+        <a href="{{url_for('error')}}">Create account...</a>
+        <br>
+        <br>
+        <form>
+        <label for="username">Username</label>
+        <br>
+        <input type="text" name="username">
+        <br><br>
+        <label for="password">Password</label>
+        <br>
+        <input type="text" name="password">
+        </form>
+        <a href="{{url_for('error')}}">Log in...</a>
+    </div>
+{% endblock %}

@@ -265,5 +265,562 @@
                 ]
             }
         ]
+    },
+    {
+        "title": "Hermes",
+        "author": "Protodal",
+        "messagetype": "post",
+        "time": "2005-07-13 at 13:49:59 UTC",
+        "content": "Anyone learn what this guy’s point is? Is he like Clippy? You can only click him sometimes.",
+        "replies": [
+            {
+                "title": "",
+                "author": "Idiot_Style_86",
+                "messagetype": "reply",
+                "time": "2005-07-13 at 14:21:50 UTC",
+                "content": "I don’t know, but he’s cute :-) .",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Xx_Fell_God_xX",
+                        "messagetype": "reply",
+                        "time": "2005-07-13 at 19:51:11 UTC",
+                        "content": "What a perfectly useless statement.<br><br> Hermes is just as useless, unfortunately. We don’t need a whole post for him. None of his “advice” is usable in the game.<br><br> Probably just a joke meant to Troll players.",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "Idiot_Style_86",
+                                "messagetype": "reply",
+                                "time": "2005-07-13 at 20:20:41 UTC",
+                                "content": "Delete yourself, please.",
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "author": "Protodal",
+                "messagetype": "reply",
+                "time": "2005-07-13 at 20:30:01 UTC",
+                "content": "I wouldn’t be so sure, personally<br><br> I believe Hermes currently exists in two different states: A Liar and a Truthteller. If you receive a pop-up from him in his Truthteller state, you have to follow his instructions to keep yourself alive. In his liar state, however, it is imperative that you do the REVERSE of whatever he is telling you to do.<br><br> Although this may seem counterintuitive, I actually quite like him. It seems like he really does care about the ship, except in those instances where he “glitches” and accidentally gives you the wrong advice.<br><br> One time, out of nowhere, Hermes said this:<br> “Sometimes, failure is just as rewarding as success. Don’t get bogged down! Look at the stars. Look how far you’ve come.”",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Xx_Fell_God_xX",
+                        "messagetype": "reply",
+                        "time": "2005-07-13 at 20:35:55 UTC",
+                        "content": "Like I said. Useless.",
+                        "replies": []
+                    },
+                    {
+                        "title": "",
+                        "author": "svelsvelkin1",
+                        "messagetype": "reply",
+                        "time": "2005-07-13 at 22:05:14 UTC",
+                        "content": "I think I’ve figured it out. You can tell between Hermes’ “Liar” and “Truthteller” states by looking closely at his color. During his “Truthteller” events, he will be the same golden color he always is. However, when he is lying, he will be paler.",
+                        "replies": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Button stuff",
+        "author": "Issuator",
+        "messagetype": "post",
+        "time": "2005-07-15 at 18:35:43 UTC",
+        "content": "Last thread about the side terminal got a little heated, so I’m making a new one. This one is focused on the buttons instead of the indicator, which we’ve settled on being ammo. At first, I didn’t think the long orange button did anything, but if you hold it down long enough, it shuts off the lights in the cockpit.<br><br> The button to the left of it also seems to do something, but I’m not sure what yet…",
+        "replies": [
+            {
+                "title": "",
+                "author": "svelsvelkin1",
+                "messagetype": "reply",
+                "time": "2005-07-15 at 19:19:20 UTC",
+                "content": "I don’t think it’s just a light switch. I just did what you suggested and held down the orange button, and everything turned off: including the screens. Seems more like a power button to me. When you leave it off for more than about 30 seconds, your game ends immediately, like you’ve run out of oxygen or something.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Issuator",
+                        "messagetype": "reply",
+                        "time": "2005-07-15 at 19:28:50 UTC",
+                        "content": "That makes more sense actually. I remember in one of my playthroughs I was randomly clicking buttons and the lights turned off, but not the screens, so that’s a different button I think. I wish I could remember what it was…",
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "author": "Xx_Fell_God_xX",
+                "messagetype": "reply",
+                "time": "2005-07-15 at 19:41:11 UTC",
+                "content": "You turn off the light by… get this… flicking the very obvious light switch on the ceiling under the tree ornament.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-15 at 20:55:24 UTC",
+                        "content": "Unrelated, but if your light starts randomly flickering, you can fix it by spamming the power button on-off-on-off several times.",
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "author": "Idiot_Style_86",
+                "messagetype": "reply",
+                "time": "2005-07-15 at 21:59:51 UTC",
+                "content": "Other button is a coffee thing, I think. One time, my coffee machine started dripping coffee like crazy, and hitting that button was the only way to get it to stop. I’m gonna post it in Official Documentation of Obstacle Events probably.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "title": "Joystick not working",
+        "author": "Daddylus",
+        "messagetype": "post",
+        "time": "2005-07-17 at 01:04:56 UTC",
+        "content": "I tried clicking my joystick to the left but it wouldn’t go? It made a noise like a loud *bonk* and my ship promptly crashed into a meteor. Has this happened to anyone else? Or is it a glitch",
+        "replies": [
+            {
+                "title": "",
+                "author": "svelsvelkin1",
+                "messagetype": "reply",
+                "time": "2005-07-17 at 2:00:01 UTC",
+                "content": "Here! It keeps happening to me. I think fell has been tracking “random events” you should let him know about that. Official Documentation of Obstacle Events",
+                "replies": []
+            },
+            {
+                "title": "",
+                "author": "Protodal",
+                "messagetype": "reply",
+                "time": "2005-07-17 at 2:30:12 UTC",
+                "content": "Huh, I don’t think my joystick has ever stopped working. I’ll keep my eye out for that.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Idiot_Style_86",
+                        "messagetype": "reply",
+                        "time": "2005-07-17 at 3:10:12 UTC",
+                        "content": "Maybe not with fell god around…",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "Protodal",
+                                "messagetype": "reply",
+                                "time": "2005-07-17 at 3:29:31 UTC",
+                                "content": "I’m gonna go ahead and pretend you didn’t say that…",
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Official Documentation of Obstacle Events",
+        "author": "Xx_Fell_God_xX",
+        "messagetype": "post",
+        "time": "2005-07-16 at 17:55:10 UTC",
+        "content": "Somehow, nobody has made a post like this, so just to make everyone’s lives easier, let’s start right now.<br><br> I’m sure anyone with half a brain has noticed that certain events are shuffled into every playthrough at an interval of about 10-15 seconds. These events range from mechanical errors to “extraterrestrial” sightings. During these events, you can speak to Hermes, or the computer intelligence, who will be less than helpful, as you are all well aware (well, most of you).<br><br> More helpful is an analysis of your surroundings, testing anything and everything you possibly can to address the errors. Whatever you do learn, post here. Immediately. Link to your other threads if need be.",
+        "replies": [
+            {
+                "title": "",
+                "author": "Idiot_Style_86",
+                "messagetype": "reply",
+                "time": "2005-07-16 at 22:12:51 UTC",
+                "content": "Recently, my coffee machine started dispensing coffee like crazy. It wouldn’t stop no matter what I did. But then, I hit the green square button next to the power button, and the coffee shut off.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-16 at 22:23:10 UTC",
+                        "content": "It could be just a general “water reset” button, like to recalibrate the water system.",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "svelsvelkin1",
+                                "messagetype": "reply",
+                                "time": "2005-07-16 at 22:30:41 UTC",
+                                "content": "I think you’re right. The green button fixes the issue where you can’t turn off your coffee machine. This isn’t always the case, however. Check coffee weirdness.",
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "author": "Protodal",
+                "messagetype": "reply",
+                "time": "2005-07-16 at 17:54:01 UTC",
+                "content": "I think the Hermes events count as obstacles, since if you ignore them, your ship blows up.",
+                "replies": []
+            },
+            {
+                "title": "",
+                "author": "Issuator",
+                "messagetype": "reply",
+                "time": "2005-07-16 at 01:08:20 UTC",
+                "content": "Any idea what to do when the outside is glowing green?",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "svelsvelkin1",
+                        "messagetype": "reply",
+                        "time": "2005-07-16 at 1:19:39 UTC",
+                        "content": "It doesn’t mean anything, as far as I’m aware. You can leave it alone. When it glows Purple or Red, on the other hand, you gotta fix it.",
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "author": "Protodal",
+                "messagetype": "reply",
+                "time": "2005-07-16 at 9:10:51 UTC",
+                "content": "Sometimes, the radio randomly starts and I can’t turn it off. I don’t really mind, and it might just be a glitch, but I figured I’d post it here.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Issuator",
+                        "messagetype": "reply",
+                        "time": "2005-07-16 at 13:12:11 UTC",
+                        "content": "For some reason, slamming the joystick to the left fixes this. It happened to me yesterday. Also, if the radio ever stops suddenly, it’ll come back on once you shoot another torpedo. If you don’t fix the radio, you die, for some reason. Which is kind of stupid but whatever.",
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "author": "Xx_Fell_God_xX",
+                "messagetype": "reply",
+                "time": "2005-07-16 at 19:10:15 UTC",
+                "content": "New incident discovered: Unidentified Flying Object.",
+                "replies": []
+            },
+            {
+                "title": "",
+                "author": "Xx_Fell_God_xX",
+                "messagetype": "reply",
+                "time": "2005-07-16 at 04:56:12 UTC",
+                "content": "New incident discovered: Window Alien.",
+                "replies": []
+            },
+            {
+                "title": "",
+                "author": "svelsvelkin1",
+                "messagetype": "reply",
+                "time": "2005-07-16 at 18:28:13 UTC",
+                "content": "Linking to my thread about an event where you suddenly lose all of your fuel. What happened to my fuel ???",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "title": "Purple",
+        "author": "Protodal",
+        "messagetype": "post",
+        "time": "2005-07-14 at 17:15:40 UTC",
+        "content": "Light outside my cockpit got really bright purple all of a sudden. A couple seconds later, my game ended. Anyone know what the deal with that is?",
+        "replies": [
+            {
+                "title": "",
+                "author": "svelsvelkin1",
+                "messagetype": "reply",
+                "time": "2005-07-14 at 17:41:15 UTC",
+                "content": "Yes! During purple events, you can look at the main console screen for a purple-tinted meteor. You have to shoot that meteor to end the event. Otherwise, if it sneaks past your ship, you’ll die.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-14 at 17:45:40 UTC",
+                        "content": "Ohhh, I understand. Thank you!",
+                        "replies": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Red",
+        "author": "svelsvelkin1",
+        "messagetype": "post",
+        "time": "2005-07-15 at 21:51:52 UTC",
+        "content": "Hello again. I know we were just talking about purple events, but I just got what I think can be called a “Red” event. The window turned a bright shade of red, and only 3 seconds later, my game had ended. Unlike with purple events, there is no “red meteor” to shoot on the meteor screen. Any thoughts?",
+        "replies": [
+            {
+                "title": "",
+                "author": "Xx_Fell_God_xX",
+                "messagetype": "reply",
+                "time": "2005-07-15 at 22:08:19 UTC",
+                "content": "Happened to me earlier today. You need to shut off all power to your ship, and the light will fade away. Once the red is gone, turn your power back on.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "svelsvelkin1",
+                        "messagetype": "reply",
+                        "time": "2005-07-15 at 22:39:49 UTC",
+                        "content": "Huh, interesting… If you don’t mind me asking, how did you know to do that? Feels kind of out-of-nowhere…",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "Xx_Fell_God_xX",
+                                "messagetype": "reply",
+                                "time": "2005-07-15 at 22:46:04 UTC",
+                                "content": "Why do you care? Last time I checked, we were more concerned with results than reasons. It was obvious, after all. Anyone with a survival instinct would have felt the immediate flight-response of that bright, red light. Anyone except you, of course. Clearly your ancestors let themselves get eaten by dinosaurs instead of hiding behind a rock like they should have.",
+                                "replies": [
+                                    {
+                                        "title": "",
+                                        "author": "svelsvelkin1",
+                                        "messagetype": "reply",
+                                        "time": "2005-07-15 at 22:54:26 UTC",
+                                        "content": "First of all, dick. Second of all, what are you talking about? Why would your first response to a digitally simulated red light be to hide in terror? Are you prone to paranoid delusions?",
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-15 at 23:16:14 UTC",
+                        "content": "I think we’ve all grown pretty emotionally attached to the first-person perspective of this game. It’s only natural that we would feel fear in response to a potential danger.",
+                        "replies": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "asteroids",
+        "author": "svelsvelkin1",
+        "messagetype": "post",
+        "time": "2005-07-13 at 22:22:09 UTC",
+        "content": "Here is my grand unified theory of the Derelict asteroids<br><br> A lot of people have been speculating about resources in bars and Spiral Theory, but I think I know how you’re supposed to replenish them.<br><br> It’s only thanks to speculation by Proto about the asteroids, as well as theories from Proto, fell, and daddylus about the resource indicators, so thanks y’all!<br><br> (Reply if you think I’m off base here at all)",
+        "replies": [
+            {
+                "title": "",
+                "author": "Protodal",
+                "messagetype": "reply",
+                "time": "2005-07-13 at 00:02:31 UTC",
+                "content": "So far, I think you’re right on the money! After I saw this post, I did some testing, which mostly confirmed this. Well done everybody! We’re far from having solved this game, but this is a huge step.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Xx_Fell_God_xX",
+                        "messagetype": "reply",
+                        "time": "2005-07-13 at 00:03:55 UTC",
+                        "content": "Don’t know why you’re thanking us. It’s literally the whole reason we’re here.",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "Protodal",
+                                "messagetype": "reply",
+                                "time": "2005-07-13 at 00:04:05 UTC",
+                                "content": "I believe this is Fell-speak for “Good job!”",
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "author": "Idiot_Style_86",
+                "messagetype": "reply",
+                "time": "2005-07-13 at 09:55:29 UTC",
+                "content": "Don’t the asteroids all destroy you? I’ve just been avoiding them…",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-13 at 13:10:41 UTC",
+                        "content": "Daddylus figured this out in How do I fill bars? Destroying the asteroids gives you specific resources.",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "Xx_Fell_God_xX",
+                                "messagetype": "reply",
+                                "time": "2005-07-13 at 13:12:50 UTC",
+                                "content": "Proto I don’t know how you stay so patient with these people.",
+                                "replies": [
+                                    {
+                                        "title": "",
+                                        "author": "Protodal",
+                                        "messagetype": "reply",
+                                        "time": "2005-07-13 at 13:13:21 UTC",
+                                        "content": "It’s truly a shame that we can’t all be as brilliant as you.",
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "coffee weirdness",
+        "author": "Issuator",
+        "messagetype": "post",
+        "time": "2005-07-10 at 17:45:24 UTC",
+        "content": "Are there any game mechanics tied to the coffee machine? Besides pouring the coffee, is there anything else to it?",
+        "replies": [
+            {
+                "title": "",
+                "author": "Daddylus",
+                "messagetype": "reply",
+                "time": "2005-07-10 at 18:23:48 UTC",
+                "content": "Sometimes the coffee machine will turn on by itself, and you can just shut it off by clicking the button.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "svelsvelkin1",
+                        "messagetype": "reply",
+                        "time": "2005-07-10 at 18:25:54 UTC",
+                        "content": "This isn’t always true. Sometimes, when the coffee machine turns on by itself, there will be a popup from Hermes that says something like “Mmmm” or “Delicious!” When this happens, DO NOT TURN OFF THE COFFEE MACHINE!!! If you do, the game will end immediately.",
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "author": "Xx_Fell_God_xX",
+                "messagetype": "reply",
+                "time": "2005-07-10 at 18:54:40 UTC",
+                "content": "One time, the coffee started on its own, but it came out green instead of brown. The only solution to this is to steer your joystick to the right.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "title": "Unidentified Flying Object",
+        "author": "Protodal",
+        "messagetype": "post",
+        "time": "2005-07-19 at 18:56:29 UTC",
+        "content": "I saw a UFO outside of the window today as I was fiddling with the game during work. I kept playing as usual, but it killed me. Anyone figure out how to deal with this?",
+        "replies": [
+            {
+                "title": "",
+                "author": "Idiot_Style_86",
+                "messagetype": "reply",
+                "time": "2005-07-19 at 19:01:28 UTC",
+                "content": "You don’t have to do anything, I don’t think. When it showed up for me, nothing happened.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-19 at 19:04:40 UTC",
+                        "content": "Huh. Maybe I’m mistaken? Not sure.",
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "author": "Xx_Fell_God_xX",
+                "messagetype": "reply",
+                "time": "2005-07-19 at 19:09:20 UTC",
+                "content": "Do NOT listen to Idiot_Style_86 no matter what you do.<br><br> If you ignore the ship, there is a very good chance they will kill you. Don’t let them do this. They are very dangerous.<br><br> If you see them, turn on your radio. If the radio sounds normal, then you do not have to do anything. The ship will pass you by and they won’t care. However, if the radio sound is garbled, whatever you do, do NOT destroy any of the asteroids. The ship is scanning your general area for usable resources, and if they see you take resources that they want for themselves, they will not hesitate to destroy you.<br><br> Tread carefully. Danger is everywhere.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Idiot_Style_86",
+                        "messagetype": "reply",
+                        "time": "2005-07-19 at 19:18:17 UTC",
+                        "content": "Hey dude, are you okay? You sound fucking crazy.",
+                        "replies": []
+                    },
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-19 at 19:18:24 UTC",
+                        "content": "Fell, I think you might be getting a little too invested in the game. Take care of yourself, please. I don’t want you to let this consume you.",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "Xx_Fell_God_xX",
+                                "messagetype": "reply",
+                                "time": "2005-07-19 at 19:19:59 UTC",
+                                "content": "Answer my DMs, please.",
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Window Alien",
+        "author": "Xx_Fell_God_xX",
+        "messagetype": "post",
+        "time": "2005-07-20 at 4:51:44 UTC",
+        "content": "Please tell me you all see this too. I feel like I’m going crazy. There is a fucking scary alien outide. I know it saw me. I turned off the lights and I think it lost interest in me. I’m gonna die.",
+        "replies": [
+            {
+                "title": "",
+                "author": "Protodal",
+                "messagetype": "reply",
+                "time": "2005-07-20 at 9:30:12 UTC",
+                "content": "You’re not crazy, I’ve seen it too. I didn’t know the solution was turning off the lights, though, so I’ll try that next time.<br><br> But come on, dude. You can’t be obsessing with this stuff at 5 in the morning. You’ll destroy your brain. Give yourself a break, get some rest. I’ll be waiting for you in the morning.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-20 at 9:30:32 UTC",
+                        "content": "It’ll *** It’ll be waiting for you *** I meant to say It’ll.",
+                        "replies": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What happened to my fuel ???",
+        "author": "svelsvelkin1",
+        "messagetype": "post",
+        "time": "2005-07-22 at 16:11:32 UTC",
+        "content": "For some reason, my fuel tank suddenly shot all the way down to half, then to a quarter, then to empty, all within the space of about five seconds. It was way quicker than it usually goes down and I barely had time to react. Am I really expected to collect a fuel asteroid in time?",
+        "replies": [
+            {
+                "title": "",
+                "author": "Xx_Fell_God_xX",
+                "messagetype": "reply",
+                "time": "2005-07-22 at 16:11:33 UTC",
+                "content": "The answer is within you. It is within the game. It is within everyone. Reach for the joystick. Move it left and right. This will jostle the fuel tank back into place.<br><br> For the longest time, I wondered why Derelict hides itself from us, why we must struggle against its labyrinthine design. But if you just listen to it, if you let yourself fall into its warm embrace, you’ll hear its heartbeat. And you’ll know what to do.",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "svelsvelkin1",
+                        "messagetype": "reply",
+                        "time": "2005-07-22 at 16:16:14 UTC",
+                        "content": "Yo how the fuck did you type that in one second.",
+                        "replies": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "HELP NOW! He’s gone, and I don’t know why",
+        "author": "Protodal",
+        "messagetype": "post",
+        "time": "2005-07-26 at 23:54:43 UTC",
+        "content": "I’m sorry to be posting this in the Gameplay tab, but since it’s the most well-trafficked area of the website, I knew I had no choice.<br><br> I can’t find Fell. He won’t reply to my messages. He never goes this long without responding.<br><br> Something is wrong with him. He hasn’t been the same recently. If you see him online, please let me know immediately.<br><br> I’m scared. I miss him.",
+        "replies": []
     }
 ]
