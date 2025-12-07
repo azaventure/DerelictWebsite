@@ -5,6 +5,16 @@
         <h2>{{ post.title }}</h2>
         <h4> Posted by {{ post.author }} on {{ post.time }} </h4>
         <p> {{post.content | safe}} </p>
+        {% if post.title == "asteroids"%}
+        <br>
+        <img src="{{url_for('static', filename='images/asteroidtheory.png')}}">
+        <br>
+        {% endif %}
+        {% if post.title == "Who are they?"%}
+        <br>
+        <img src="{{url_for('static', filename='images/postertheory.png')}}">
+        <br>
+        {% endif %}
         <a href="{{url_for('login')}}">Reply...</a>
         {% with replies=post.replies %}
         {% include 'reply_box.html' %}

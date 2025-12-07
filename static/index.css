@@ -6,6 +6,10 @@ body {
     background-size: 200%;
 }
 
+img {
+    max-width: 600px;
+}
+
 h1, h2 {
     vertical-align: middle;
     margin: 0;
