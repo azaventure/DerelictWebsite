@@ -178,7 +178,7 @@
                                 "author": "Daddylus",
                                 "messagetype": "reply",
                                 "time": "2005-7-09 at 05:03:51 UTC",
-                                "content": "your main console button also functions as a tractor beam. If you flip the switch on the left, the color of your button will change from orange to green, and you can shoot meteors as you normally would to “pull them in.",
+                                "content": "destroying the meteors is the same as pulling them in. certain bars get replenished when you destroy certain meteors",
                                 "replies": [
                                     {
                                         "title": "",
@@ -235,35 +235,35 @@
         "author": "Issuator",
         "messagetype": "post",
         "time": "2005-07-11 at 10:11:56 UTC",
-        "content": "Some thoughts on the console to the right - the buttons could represent different torpedo spread patterns? I noticed that if you press the top green button, your galaga button can destroy multiple asteroids at once, while pressing the bottom button switches you back",
+        "content": "Some thoughts on the terminal to the right - the indicator screen seems to go down over time and get replenished seemingly at random. It seems to show some kind of draining resource that you accumulate through gameplay",
         "replies": [
             {
                 "title": "",
                 "author": "Xx_Fell_God_xX",
                 "messagetype": "reply",
                 "time": "2005-07-11 at 11:09:11 UTC",
-                "content": "This is correct, but you can’t always rely on it. I’ve found that, in certain situations, only one torpedo pattern is available. It’s most likely dependent on the amount of solar power readily nearby your ship.",
+                "content": "It is very clearly not random…",
                 "replies": [
                     {
                         "title": "",
                         "author": "Protodal",
                         "messagetype": "reply",
                         "time": "2005-07-11 at 11:15:30 UTC",
-                        "content": "Solar power? What gives you that impression, if I may ask?",
+                        "content": "Care to elaborate?",
                         "replies": [
                             {
                                 "title": "",
                                 "author": "Xx_Fell_God_xX",
                                 "messagetype": "reply",
                                 "time": "2005-07-11 at 11:17:11 UTC",
-                                "content": "I’m getting tired of explaining things to you…</p><br><p>You can only switch to a wide torpedo spread if the lines on the graph are oscillating at higher levels. This made me wonder if the lines represent some kind of power, and if they do, then it must be an environment-based power rather than a stored-power, or the decline would be linear instead of wavy. The only kind of power that would fluctuate like this based on your position would be solar power.",
+                                "content": "I’m getting tired of explaining things to you… The indicator only goes down as you shoot torpedos - it’s obviously an ammo meter. One of the asteroids must be a replenishable resource that helps your ship construct new torpedoes",
                                 "replies": [
                                     {
                                         "title": "",
                                         "author": "Issuator",
                                         "messagetype": "reply",
                                         "time": "2005-07-11 at 11:18:14 UTC",
-                                        "content": "Wow, I think you might be right! Additionally, I think the screen above the buttons represents the amount of torpedoes you have left. When you fire at a wide spread, the bar shrinks faster. I wonder if there is a kind of asteroid you can collect that can be fashioned into more artillery…",
+                                        "content": "Wow, I think you might be right!",
                                         "replies": [
                                             {
                                                 "title": "",
@@ -280,7 +280,7 @@
                                         "author": "Protodal",
                                         "messagetype": "reply",
                                         "time": "2005-07-11 at 11:19:51 UTC",
-                                        "content": "As annoying as this response is, I think you’re right. I just tested it, and you can’t do a wide-spread if the wavy lines dip too low. Still, your elitism is showing.",
+                                        "content": "As annoying as this response is, I think you’re right. I just tested it, and if you deplete the ammo meter, your torpedo button stops working. Still, your elitism is showing. This is a public forum. We’re all on the same side here. Don’t be vague just to be vague.",
                                         "replies": [
                                             {
                                                 "title": "",
