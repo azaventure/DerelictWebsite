@@ -560,6 +560,67 @@
         ]
     },
     {
+        "title": "download link isnt working",
+        "author": "localhost1982",
+        "messagetype": "post",
+        "time": "2005-07-16 at 12:42:59 UTC",
+        "content": "is the download link working for anyone else? im clicking it over and over and i dont know what im doing wrong",
+        "replies": [
+            {
+                "title": "",
+                "author": "Protodal",
+                "messagetype": "reply",
+                "time": "2005-07-16 at 12:46:32 UTC",
+                "content": "Huh, that's strange. Not sure when it stopped. Must be all the new interest flooding the servers. Here's a link to my copy hosted on my private server [ Content removed by moderator in accordance with a copyright violation. ]",
+                "replies": [
+                    {
+                        "title": "",
+                        "author": "Protodal",
+                        "messagetype": "reply",
+                        "time": "2005-07-16 at 12:47:22 UTC",
+                        "content": "Did it just automatically remove that? How did it even do that? Let me try again - [ Content removed by moderator in accordance with a copyright violation. ]",
+                        "replies": [
+                            {
+                                "title": "",
+                                "author": "Protodal",
+                                "messagetype": "reply",
+                                "time": "2005-07-16 at 12:47:55 UTC",
+                                "content": "[ Content removed by moderator in accordance with a copyright violation. ]",
+                                "replies": []
+                            },
+                            {
+                                "title": "",
+                                "author": "Xx_Fell_God_xX",
+                                "messagetype": "reply",
+                                "time": "2005-07-16 at 12:55:23 UTC",
+                                "content": "Clearly, you didn't encrypt it. Here's mine. [ Content removed by moderator in accordance with a copyright violation. ]",
+                                "replies": [
+                                    {
+                                        "title": "",
+                                        "author": "Xx_Fell_God_xX",
+                                        "messagetype": "reply",
+                                        "time": "2005-07-16 at 12:47:55 UTC",
+                                        "content": "Okay what the fuck",
+                                        "replies": [
+                                            {
+                                                "title": "",
+                                                "author": "Xx_Fell_God_xX",
+                                                "messagetype": "reply",
+                                                "time": "2005-07-16 at 12:56:46 UTC",
+                                                "content": "I figured it out. The idiotic moderators of this forum still have the endpoint exposed. Just add a /download to the end of the URL, thats what the original link sent you to. Who even runs this forum anyway?",
+                                                "replies": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Official Documentation of Obstacle Events",
         "author": "Xx_Fell_God_xX",
         "messagetype": "post",

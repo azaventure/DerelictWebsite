@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, send_file
 from post_model import Post
 import json
 
@@ -65,6 +65,10 @@ def login():
 @app.route('/error')
 def error():
     return render_template('error.html')
+
+@app.route('/download')
+def download():
+    return send_file('derelict_game.zip', as_attachment=True)
 
 
 if __name__ == '__main__':
